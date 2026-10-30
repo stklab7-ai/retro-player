@@ -1,6 +1,6 @@
 # 🎮 Retro Player Web
 
-[![Deploy Status](https://img.shields.io/badge/Deploy-GitHub_Pages-success)](https://Pab1o-52.github.io/retro-player/)
+[![Deploy Status](https://img.shields.io/badge/Deploy-GitHub_Pages-success)](https://stklab7-ai.github.io/retro-player/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 [🇺🇸 English](#english) | [🇷🇺 Русский](#русский)
@@ -16,7 +16,7 @@ Play games straight from your browser, connect gamepads, enjoy responsive touch 
 
 🔥 **KEY FEATURE: You can play together with a friend! (Multiplayer P2P)** 🔥
 
-🕹 **Play Now:** [https://Pab1o-52.github.io/retro-player/](https://Pab1o-52.github.io/retro-player/)
+🕹 **Play Now:** [https://stklab7-ai.github.io/retro-player/](https://stklab7-ai.github.io/retro-player/)
 
 ### ✨ Features
 * **Built-in Archive.org Catalog:** Browse and play thousands of free PD/homebrew games directly from the cloud.
@@ -37,7 +37,7 @@ Play games straight from your browser, connect gamepads, enjoy responsive touch 
 
 🔥 **ОСОБЕННОСТЬ: Можно играть вдвоем по сети с другом! (Мультиплеер P2P)** 🔥
 
-🕹 **Играть сейчас:** [https://Pab1o-52.github.io/retro-player/](https://Pab1o-52.github.io/retro-player/)
+🕹 **Играть сейчас:** [https://stklab7-ai.github.io/retro-player/](https://stklab7-ai.github.io/retro-player/)
 
 ### ✨ Главные возможности
 
@@ -71,7 +71,7 @@ Play games straight from your browser, connect gamepads, enjoy responsive touch 
 
 1. Clone repo:
    ```bash
-   git clone https://github.com/Pab1o-52/retro-player.git
+   git clone https://github.com/stklab7-ai/retro-player.git
    cd retro-player
    ```
 2. Install dependencies:
